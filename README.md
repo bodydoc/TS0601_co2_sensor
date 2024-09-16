@@ -11,7 +11,7 @@ PUBLISH_DELAY = 60.0;
 ````
 Result:
 
-<img width="1322" height="91" src="assets/reports.png">
+<img width="768" height="53" src="assets/reports.png">
 
 ## HOW TO INSTALL:
 - Drop the file `TS0601_CO2.js` in the directory containing Zigbee2MQTT `configuration.yaml` file
