@@ -21,6 +21,6 @@ external_converters:
   - TS0601_CO2.js
 ```
 - Restart Zigbee2MQTT
-- If the device description now read `Air quality sensor (WITH DELAYED OUTPUT)` then the external converter was successully loaded.
+- If the device description now read `NDIR CO2 sensor with delayed reporting` then the external converter was successully loaded.
 
 <img src="assets/success.png">
