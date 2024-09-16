@@ -1,4 +1,4 @@
-# TS0601_co2_sensor
+# TS0601 CO2 Sensor
 NDIR CO2 sensor with delayed reporting. 
 
 
