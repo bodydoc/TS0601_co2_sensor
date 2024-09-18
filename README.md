@@ -1,4 +1,4 @@
-# TS0601 CO2 Sensor
+# TS0601 CO2 Sensor (_TZE200_3ejwxpmu)
 NDIR CO2 sensor with delayed reporting. 
 
 
