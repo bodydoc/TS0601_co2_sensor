@@ -14,7 +14,7 @@ Result:
 <img width="768" height="53" src="assets/reports.png">
 
 ## HOW TO INSTALL:
-- Drop the file `TS0601_CO2.js` in `external_converters` directory in Zigbee2MQTT folder (`>\config\zigbee2mqtt\external_converters`)
+- Drop the file `TS0601_CO2.js` in `external_converters` directory in Zigbee2MQTT folder (`\config\zigbee2mqtt\external_converters`)
 - Add the external converter either via Z2M web frontend or in configuration.yaml
 - Restart Zigbee2MQTT
 - If the device description now read `NDIR CO2 sensor with delayed reporting` then the external converter was successully loaded.
